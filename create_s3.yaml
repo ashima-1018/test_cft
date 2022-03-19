@@ -6,4 +6,4 @@ Resources:
 Outputs:
   BucketName:
     Value: !Ref 'S3Bucket'
-    Description: NAme of the sample S3 buccket    
+    Description: NAme of the sample S3 bucckettttttt    
